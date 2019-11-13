@@ -45,5 +45,9 @@ class ViewController: UIViewController {
     @IBAction func voiceHeight(_ sender: UISlider) {
     }
     
+    func log() {
+        print("test")
+    }
+    
 }
 
